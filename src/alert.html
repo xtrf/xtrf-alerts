@@ -1,0 +1,5 @@
+<div class="alert alert-{{ alert.type }}" ng-class="{ 'closable': alert.closable, 'with-title': alert.title }">
+  <p class="title" ng-if="alert.title">{{ alert.title }}</p>
+  <span class="alert-content"></span>
+  <button ng-if="alert.closable" ng-click="closeAlert(index)" class="close-alert" type="button">×</button>
+</div>

@@ -1,7 +1,7 @@
 {
-	"name": "XTRF_Alerts",
-	"version": "0.0.1",
-	"main": "angular-cookie.js",
+	"name": "xtrf-alerts",
+	"version": "0.0.2",
+	"main": "alerts.js",
 	"dependencies": {
 		"angular": "*",
 		"angular-translate": "2.2.0"

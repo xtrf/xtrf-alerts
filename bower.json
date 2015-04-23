@@ -1,6 +1,6 @@
 {
 	"name": "xtrf-alerts",
-	"version": "0.0.3",
+	"version": "0.0.5",
 	"main": "alerts.js",
 	"dependencies": {
 		"angular": "*",

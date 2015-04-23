@@ -1,4 +1,4 @@
-/*alers 0.0.3*/
+/*alers 0.0.5*/
 (function() {
 	var alertsModule = angular.module('xtrf.modules', ['ng', 'pascalprecht.translate']);
 
